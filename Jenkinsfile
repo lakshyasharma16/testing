@@ -4,9 +4,9 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-              'pwd'
-              'whoami'
-                sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh'
+             sh 'pwd'
+             sh 'whoami'
+                //sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh'
             }
         }
                 stage('2') {
