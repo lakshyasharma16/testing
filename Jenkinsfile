@@ -6,9 +6,9 @@ pipeline {
             steps {
              sh 'pwd'
              sh 'whoami'
-                
+             sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh' 
             }
-            sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh'
+            
         }
                 stage('2') {
             steps {
