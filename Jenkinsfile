@@ -7,8 +7,8 @@ pipeline {
              sh 'pwd'
              sh 'whoami'
              println('lakshya')
-             printf('print f')
-             sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh' 
+            //printf('print f')
+            // sh '/home/lakshya.sharma/lakshya/Docs/practice/sample_sh/c.sh' 
             }
             
         }
