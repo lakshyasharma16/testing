@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 b11
 b22
->>>>>>> f0ac4bcbefb8585fbeba328f3da0d7af88a87c5b
 lakshya
 sunil
 kanika
